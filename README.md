@@ -1,6 +1,6 @@
 # Budget Tracker
-
 Budget Tracker is a web application designed to help users manage their finances efficiently. This project leverages **JavaScript**, **HTML**, **CSS**, and **DOM manipulation** to provide a seamless user experience. It uses **JSON handling** for storing and retrieving financial data.
+
 ---
 ## Table of Contents
 - [Features](#features)
