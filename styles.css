@@ -44,7 +44,32 @@ body {
     padding: 10px 0;
     text-align: center;
   }
+
+  .navbar {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    background-color: #f4f4f4;
+  }
   
+  .navbar li {
+    margin: 0 15px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px 15px;
+    display: block;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: #000;
+    border-radius: 5px;
+  }
   main {
     padding: 20px;
   }
