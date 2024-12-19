@@ -1,8 +1,18 @@
 # Budget Tracker
 
-## Overview
 Budget Tracker is a web application designed to help users manage their finances efficiently. This project leverages **JavaScript**, **HTML**, **CSS**, and **DOM manipulation** to provide a seamless user experience. It uses **JSON handling** for storing and retrieving financial data.
-
+ 
+## Table of Contents
+- [Features](#features)
+- [Setup Instructions](#setup-instructions)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Notes](#notes)
+- [Future Enhancements](#future-enhancements)
+- [Licence](#license)
+- [Contact Information](#contact-information)
+---
 ## Features
 - Add income and expense records
 - Categorize transactions
@@ -79,6 +89,17 @@ Ensure you have the following installed on your system:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+ If you have any feedback or questions, feel free to contribute or reach out.
+## Contact Information
+
+- *Name*: Phoebe Velma Awuor
+- *Email*: [awuorphoebi@gmail.com]
+- *LinkedIn*: [https://www.linkedin.com/in/phoebe-velma-awuor/](#)
+- *GitHub*: [https://github.com/Velma96](#)
+
+---
 
 
 
