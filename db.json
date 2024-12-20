@@ -47,6 +47,18 @@
       "description": "Savings",
       "amount": 10000,
       "type": "expense"
+    },
+    {
+      "id": 1734676788999,
+      "description": "debt paid",
+      "amount": 10000,
+      "type": "income"
+    },
+    {
+      "id": 1734676814410,
+      "description": "car loan",
+      "amount": 5000,
+      "type": "expense"
     }
   ]
 }
